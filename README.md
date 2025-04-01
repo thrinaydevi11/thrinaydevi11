@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @thrinaydevi11
 - 👀 I’m interested in coding and Full stack development
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on java related projects
+- 🌱 I’m currently learning Machine Learning
+- 💞️ I’m looking to collaborate on Python related projects
 - 📫 How to reach me thrinaydevi@gmail.com
 - 
 
